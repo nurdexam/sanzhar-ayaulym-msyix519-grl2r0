@@ -1,12 +1,12 @@
 {
   "clientEmail": "viltia40@gmail.com",
-  "groom": "Айдос",
-  "bride": "Айгерим",
-  "date": "15 августа 2026",
-  "time": "17:00",
-  "dateTime": "2026-08-15T17:00:00",
-  "venue": "Grand Palace",
-  "address": "Алматы, Казахстан",
+  "groom": "Санжар",
+  "bride": "Аяулым",
+  "date": "7 маусым 2027",
+  "time": "19:00",
+  "dateTime": "2027-06-07T19:00:00",
+  "venue": "Grand Ballroom Almaty",
+  "address": "Алматы қ., Достық даңғылы, 401 (Royal Tulip)",
   "coverImage": "/invitation/cover.jpg",
   "gallery": [
     "/invitation/photo-1.jpg",
@@ -14,21 +14,15 @@
     "/invitation/photo-3.jpg",
     "/invitation/photo-4.jpg",
     "/invitation/photo-5.jpg",
-    "/invitation/photo-6.jpg"
+    "/invitation/photo-6.jpg",
+    "/invitation/photo-7.jpg",
+    "/invitation/photo-8.jpg",
+    "/invitation/photo-9.jpg"
   ],
   "events": [
     {
-      "time": "16:00",
-      "title": "Сбор гостей"
-    },
-    {
-      "time": "17:00",
-      "title": "Начало торжества"
-    },
-    {
-      "time": "18:00",
-      "title": "Праздничный банкет"
+      "title": "Қонақтарды қарсы алу",
+      "time": "18:30"
     }
   ]
 }
-
